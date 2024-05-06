@@ -22,17 +22,6 @@
 
 ---
 
-### **Consignas:**
-
-- La base de datos debe contener al menos:
-  - ~ 15 (8 como minimo) tablas, entre las cuales debe haber al menos 1 tabla de hechos, 2 tablas transaccionales.
-  - ~ 5 vistas. mostrar kpis
-  - ~ 2 stored procedure.
-  - ~ 2 trigger.
-  - ~ 2 funciones
-  - Scripts de creación de cada objeto de la base de datos
-  - Informes generados en base a la información de la base
-
 ## Temática del Proyecto
 
 El proyecto tiene como temática principal la gestión integral de información para un taller mecánico. Se centra en proporcionar una plataforma sólida para administrar clientes, vehículos, órdenes de trabajo, facturación y pagos. El objetivo es mejorar la eficiencia operativa y facilitar el seguimiento detallado de las reparaciones realizadas en el taller.
